@@ -10,7 +10,8 @@ android:
 jdk: oraclejdk7
 
 notifications:
-  email: false
+   slack: jamslab:HcT4YpxNvkkpWOa9Mq6yKtO2
+   email: false
 
 sudo: false
 
